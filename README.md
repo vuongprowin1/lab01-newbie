@@ -11,7 +11,7 @@
 STT | Họ và tên | MSSV | SĐT | Email
 -----|------------|------|---------|------------
 1 | Hoàng Xuân Trường | 1612899 | 0976554304 | hoangxuantruong98@gmail.com
-2 | 
+2 | Nguyễn Quốc Vương | 1612829 | 01628014771| vuongprowin1@gmail.com
 3 |
 4 |
 5 |
